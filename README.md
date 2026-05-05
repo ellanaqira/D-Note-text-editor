@@ -3,6 +3,7 @@
 ![img icon](prev_img/dnote_icon.png)
 
 A simple text editor application built with Python.
+
 Quick info: All image assets in this application are made by myself.
 
 ## Feature include:
@@ -34,7 +35,7 @@ Quick info: All image assets in this application are made by myself.
 #### `Others`
 <img src="prev_img/other.png"/>
 
-- Undo and Redo
+- undo and redo
 - text font
 - text size
 - text color
