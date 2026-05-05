@@ -19,7 +19,7 @@ File | Edit | Tools |
 
 Theme | Help | Others |
 --- | --- | --- |
-![](prev_img/theme.png) |  <img src="prev_img/about.png" width=80%/> | <img src="prev_img/other.png"/> 
+![](prev_img/theme.png) |  -about the D-Note <img src="prev_img/about.png" width=80%/> | undo, redo, font style, text size, text color, and search for text<img src="prev_img/other.png"/> 
 ||| -search a word <img src="prev_img/search.png"/>
 ||| -status bar <img src="prev_img/status_bar.png"/>
 
