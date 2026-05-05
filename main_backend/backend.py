@@ -325,7 +325,7 @@ replace with the opened file?""",
     def open_ascii_window(self, master):
         ascii_win = Toplevel(master)
         ascii_win.attributes('-topmost', bool(True))
-        ascii_win.geometry("600x700")
+        ascii_win.geometry("600x450")
         ascii_win.resizable(False, False)
         ascii_win.title("Ascii Art Library")
 

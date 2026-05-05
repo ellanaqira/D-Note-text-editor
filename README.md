@@ -1,15 +1,44 @@
 # D-Note text editor
+
+![img icon](prev_img/dnote_icon.png)
 A simple text editor application built with Python.
-* Here are some screenshot previews from D-Note.
+Quick info: All image assets in this application are made by myself.
 
-![vid_1](prev_img/prev_vid.gif)
+## Feature include:
+#### `File`
+- writing a text file
+- save your file
+- open a text file
+- create a new file 
 
-![img_1](prev_img/prev1.png)
+#### `Edit`
+- copy
+- paste
+- cut
+- select all
 
-![img_2](prev_img/prev5.png)
+#### `Tools`
+- document information
+<img src="prev_img/doc_info.png" width=40%/>
+- time and date (print out current time and date)
+- Ascii art library
+<img src="prev_img/ascii_lib.png" width=60%/>
 
-![img_3](prev_img/prev2.png)
+#### `Theme`
+<img src="prev_img/theme.png"/>
 
-![img_4](prev_img/prev3.png)
+#### `Help`
+<img src="prev_img/about.png" width=40%/>
 
-![img_5](prev_img/prev4.png)
+#### `Others`
+<img src="prev_img/other.png"/>
+
+- Undo and Redo
+- text font
+- text size
+- text color
+- search a word
+<img src="prev_img/search.png" width=60%/>
+- status bar
+<img src="prev_img/status_bar.png"/>
+
