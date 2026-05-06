@@ -8,34 +8,34 @@ Quick info: All image assets in this application are made by myself.
 
 ## Feature include:
 
-### File:
+### - File
 - writing a text file
 - save your file
 - open a text file
 - create a new file 
 
-### Edit:
+### - Edit
 - copy
 - paste
 - cut
 - select all
 
-### Tools:
+### - Tools
 - document information
 <img src="prev_img/doc_info.png" width=40%/>
 
 - time and date (print out current time and date)
 
 - Ascii art library
-<img src="prev_img/ascii_lib.png" width=60%/>
+<img src="prev_img/ascii_lib.png" width=70%/>
 
-### Theme:
+### - Theme
 <img src="prev_img/theme.png"/>
 
-### Help:
+### - Help
 <img src="prev_img/about.png" width=40%/>
 
-### Others:
+### - Others
 <img src="prev_img/other.png"/>
 
 - undo and redo
